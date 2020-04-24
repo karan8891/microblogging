@@ -5,6 +5,8 @@ from rest_framework.filters import (
         SearchFilter,
         OrderingFilter,
     )
+
+# view options
 from rest_framework.generics import (
     CreateAPIView,
     DestroyAPIView,
@@ -15,7 +17,7 @@ from rest_framework.generics import (
     )
 
 
-
+# permissions
 from rest_framework.permissions import (
     AllowAny,
     IsAuthenticated,

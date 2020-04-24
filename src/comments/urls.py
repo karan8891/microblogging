@@ -6,7 +6,7 @@ from .views import (
     comment_delete
 
     )
-
+# two urls for comment operations
 urlpatterns = [
     url(r'^(?P<id>\d+)/$', comment_thread, name='thread'),
     url(r'^(?P<id>\d+)/delete/$', comment_delete, name='delete'),

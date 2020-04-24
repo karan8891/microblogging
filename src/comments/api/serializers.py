@@ -22,6 +22,7 @@ class CommentCreateSerializer(ModelSerializer):
         slug = serializers.SlugField(write_only=True) # new-title
         parent_id = serializers.IntegerField(required=False)
 
+# meta data from backend
         class Meta:
             model = Comment
             fields = [
@@ -34,7 +35,7 @@ class CommentCreateSerializer(ModelSerializer):
                 'timestamp',
             ]
 
-
+# to specify post related with comment
         def validate(self, data):
             model_type      = data.get("type", "post")
             model_qs        = ContentType.objects.filter(model=model_type)
@@ -117,7 +118,7 @@ def create_comment_serializer(model_type='post', slug=None, parent_id=None, user
     return CommentCreateSerializer
 
 
-
+# reply comment
 class CommentSerializer(ModelSerializer):
     reply_count = SerializerMethodField()
     class Meta:

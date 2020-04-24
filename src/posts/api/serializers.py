@@ -50,7 +50,7 @@ class PostDetailSerializer(ModelSerializer):
             'image',
             'comments',
         ]
-
+# to fetch the static file from angular
     def get_html(self, obj):
         return obj.get_markdown()
 
@@ -60,7 +60,7 @@ class PostDetailSerializer(ModelSerializer):
         except:
             image = None
         return image
-
+# as json from database
     def get_comments(self, obj):
         c_qs = Comment.objects.filter_by_instance(obj)
         comments = CommentSerializer(c_qs, many=True).data

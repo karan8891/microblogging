@@ -1,6 +1,7 @@
 <div class='col-sm-6 col-sm-offset-3'>
     <h1>Login</h1>
     <form ng-submit='doLogin(user)'>
+<!--        login error message-->
         <div class='alert alert-danger' ng-show='loginError.non_field_errors'>
             <span ng-repeat='error in loginError.non_field_errors'>
                 {{ error }} <br/>

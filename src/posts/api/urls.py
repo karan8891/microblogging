@@ -1,6 +1,8 @@
 from django.conf.urls import url
 from django.contrib import admin
 
+# for django admin options
+
 from .views import (
     PostCreateAPIView,
     PostDeleteAPIView,

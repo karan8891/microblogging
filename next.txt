@@ -1,6 +1,0 @@
-What's next?
-
-Login Redirect pagination
-Post a blog view
-Content creation
-Work on UI, bootstrap 3
