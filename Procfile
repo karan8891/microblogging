@@ -1,0 +1,1 @@
+web: sh -c 'cd src/blog && gunicorn wsgi.py:application'

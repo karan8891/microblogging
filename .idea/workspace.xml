@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cedfa864-b32a-446e-b95c-2a432685ead6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aFGx0BqhIEVto9W4ggH0I1QRmD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cedfa864-b32a-446e-b95c-2a432685ead6" name="Default Changelist" comment="" />
+      <created>1586324179024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586324179024</updated>
+    </task>
+    <task id="LOCAL-00001" summary="requirements">
+      <created>1587502394612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587502394612</updated>
+    </task>
+    <task id="LOCAL-00002" summary="settings updated">
+      <created>1587509950652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587509950652</updated>
+    </task>
+    <task id="LOCAL-00003" summary="procfile deleted">
+      <created>1587530120740</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587530120740</updated>
+    </task>
+    <task id="LOCAL-00004" summary="procfile added">
+      <created>1587530203220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587530203220</updated>
+    </task>
+    <task id="LOCAL-00005" summary="wsgi path">
+      <created>1587534739592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587534739592</updated>
+    </task>
+    <task id="LOCAL-00006" summary="wsgi path again">
+      <created>1587535171429</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587535171429</updated>
+    </task>
+    <task id="LOCAL-00007" summary="procfile updated">
+      <created>1587536090068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587536090068</updated>
+    </task>
+    <task id="LOCAL-00008" summary="app name changed in procfile">
+      <created>1587536597389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587536597389</updated>
+    </task>
+    <task id="LOCAL-00009" summary="directory issue">
+      <created>1587538163040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587538163040</updated>
+    </task>
+    <task id="LOCAL-00010" summary="directory issue 2">
+      <created>1587538597733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587538597733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="requirements" />
+    <MESSAGE value="settings updated" />
+    <MESSAGE value="procfile deleted" />
+    <MESSAGE value="procfile added" />
+    <MESSAGE value="wsgi path" />
+    <MESSAGE value="wsgi path again" />
+    <MESSAGE value="procfile updated" />
+    <MESSAGE value="app name changed in procfile" />
+    <MESSAGE value="directory issue" />
+    <MESSAGE value="directory issue 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="directory issue 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587530150737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587530150737" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1587538596165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587538596165" />
+  </component>
+</project>
